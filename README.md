@@ -1,0 +1,2 @@
+# beadando feladat
+ feladat
